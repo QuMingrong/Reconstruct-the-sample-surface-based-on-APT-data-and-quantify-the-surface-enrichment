@@ -1,0 +1,2 @@
+# Reconstruct-the-sample-surface-based-on-APT-data-and-quantify-the-surface-enrichment
+MATLAB script for Atom Probe Tomography (APT) data of High-Entropy Alloys (HEA: Ir/Ru/Rh/Pt/Pd). It reconstructs the HEA surface from HEA atoms only, performs per-cell ranked layer peeling so you can view any layer on demand, and computes 1-nm enrichment with KDE curves. Everything is exportable to Excel and controllable from an interactive UI.
